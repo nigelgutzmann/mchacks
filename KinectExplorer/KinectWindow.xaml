@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:local="clr-namespace:Microsoft.Samples.Kinect.KinectExplorer"
         xmlns:kt="clr-namespace:Microsoft.Samples.Kinect.WpfViewers;assembly=Microsoft.Samples.Kinect.WpfViewers"
-        Title="Kinect Explorer" Width="839" Height="768">
+        Title="McHacks - Kinect Explorer" Width="839" Height="768">
     <Window.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
